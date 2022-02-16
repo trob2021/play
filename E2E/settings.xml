@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="ba3ef0fc-0610-4352-a0eb-7889b3c8ebc1" name="E2E" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="ba3ef0fc-0610-4352-a0eb-7889b3c8ebc1fileName">E2E</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/><con:environmentSpec><con:entry environmentId="59351a0b-d1f5-4471-ba4a-57a6e3219912"><con:authProfile>Inherit From Parent</con:authProfile></con:entry></con:environmentSpec></con:testSuite>
