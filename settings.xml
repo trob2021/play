@@ -10,9 +10,9 @@
   <con:entry key="WSS Password Type" value=""/>
   <con:entry key="Endpoint" value=""/>
   <con:entry key="Test Suite Tags" value=""/>
-  <con:entry key="Select Report Type" value="JUnit-Style report for automation"/>
+  <con:entry key="Select Report Type" value="Test suite printable report"/>
   <con:entry key="System Properties" value=""/>
-  <con:entry key="Test Suite" value="Sanity"/>
+  <con:entry key="Test Suite" value="E2E"/>
   <con:entry key="Run in-process" value="false"/>
   <con:entry key="Password" value=""/>
   <con:entry key="Print Report" value="true"/>
@@ -30,7 +30,7 @@
   <con:entry key="Environment" value="Default environment"/>
   <con:entry key="Coverage Report" value="true"/>
   <con:entry key="Enable UI" value="true"/>
-  <con:entry key="Root Folder" value="${WORKSPACE}"/>
+  <con:entry key="Root Folder" value="C:\Users\254304\Desktop\Test\API-De\CL"/>
   <con:entry key="Ignore Errors" value="false"/>
   <con:entry key="Domain" value=""/>
   <con:entry key="Tool Args" value=""/>
